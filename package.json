@@ -11,6 +11,7 @@
     "@babel/node": "^7.15.8",
     "cookie-parser": "~1.4.4",
     "core-js": "^3.18.3",
+    "cors": "^2.8.5",
     "debug": "~2.6.9",
     "did-jwt-vc": "^2.1.7",
     "ethr-did": "^2.1.4",
